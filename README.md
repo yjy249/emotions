@@ -30,6 +30,8 @@
 
 此处我使用一个案例 一个检测图片情绪 的python应用(项目地址: [基于streamlit的识别应用 (github.com)](https://github.com/yjy249/emotions)) 介绍。
 
+**视频检测**：<https://live.csdn.net/v/279590>
+
  编写你的 app.py文件
 
    文件名为：emotion_web.py
@@ -98,7 +100,6 @@
 #### 1.1.3. 遇到问题
 
 1. 环境问题
-
 2. 查找网站的 discuss：[Streamlit - Streamlit is the fastest way to build data apps.](https://discuss.streamlit.io/) 搜索你所出现的问题
 3. 搜索引擎
 
