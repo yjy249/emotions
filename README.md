@@ -28,7 +28,7 @@
 
 #### 使用步骤：
 
-此处我使用一个案例 一个检测图片情绪 的python应用(项目地址: [joker507/my_streamlit: 基于streamlit的识别应用 (github.com)](https://github.com/joker507/my_streamlit)) 介绍。
+此处我使用一个案例 一个检测图片情绪 的python应用(项目地址: [基于streamlit的识别应用 (github.com)](https://github.com/yjy249/emotions)) 介绍。
 
  编写你的 app.py文件
 
@@ -45,8 +45,6 @@
 
    之后就会有一个连接出来，点击连接或者回自动跳到浏览器上显示运行结果。
 
-   
-
  部署到云端 
 
    1. 使用 streamlit could [Cloud • Streamlit](https://streamlit.io/cloud)
@@ -54,8 +52,7 @@
       1. 申请一个免费的 could，过后你会收到一封邮件教你怎么部署 : [Your apps · Streamlit](https://share.streamlit.io/)
 
          1. 申请通过后会有一份邮件通知
-         2. ![image-20211025171521349](关于python项目部署这件事_md_files\image-20211025171521349.png)
-
+         
       2. 将代码上传到github上
 
          1. 在github上新建一个仓库
