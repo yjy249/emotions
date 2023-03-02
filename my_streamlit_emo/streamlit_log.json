@@ -1,0 +1,71 @@
+[
+    {
+        "box": [
+            117,
+            65,
+            115,
+            155
+        ],
+        "emotions": {
+            "angry": 0.0,
+            "disgust": 0.0,
+            "fear": 0.0,
+            "happy": 0.99,
+            "sad": 0.0,
+            "surprise": 0.01,
+            "neutral": 0.0
+        },
+        "time": "2023_03_02_11_13_12"
+    },
+    {
+        "box": [
+            249,
+            135,
+            103,
+            140
+        ],
+        "emotions": {
+            "angry": 0.0,
+            "disgust": 0.0,
+            "fear": 0.0,
+            "happy": 1.0,
+            "sad": 0.0,
+            "surprise": 0.0,
+            "neutral": 0.0
+        }
+    },
+    {
+        "box": [
+            647,
+            116,
+            99,
+            138
+        ],
+        "emotions": {
+            "angry": 0.0,
+            "disgust": 0.0,
+            "fear": 0.0,
+            "happy": 1.0,
+            "sad": 0.0,
+            "surprise": 0.0,
+            "neutral": 0.0
+        }
+    },
+    {
+        "box": [
+            428,
+            76,
+            103,
+            133
+        ],
+        "emotions": {
+            "angry": 0.0,
+            "disgust": 0.0,
+            "fear": 0.0,
+            "happy": 1.0,
+            "sad": 0.0,
+            "surprise": 0.0,
+            "neutral": 0.0
+        }
+    }
+]

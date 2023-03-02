@@ -1,0 +1,5 @@
+fer
+tensorflow>=1.7 
+opencv-contrib-python==3.4.4.19
+opencv-python-headless
+moviepy
